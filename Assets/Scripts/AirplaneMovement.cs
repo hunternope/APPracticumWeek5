@@ -5,7 +5,7 @@ public class AirplaneMovement : MonoBehaviour {
 	public enum AnswerPosition { Left, Middle, Right };
 	public AirplaneMovement.AnswerPosition answer = AnswerPosition.Middle;
 
-	private float movementSpeed = 9;
+	private float movementSpeed = 10;
 	private float sideMovementSpeed = 14;
 
 	// Use this for initialization
