@@ -6,7 +6,7 @@ public class AirplaneMovement : MonoBehaviour {
 	public AirplaneMovement.AnswerPosition answer = AnswerPosition.Middle;
 
 	private float movementSpeed = 9;
-	private float sideMovementSpeed = 15;
+	private float sideMovementSpeed = 14;
 
 	// Use this for initialization
 	void Start () {
